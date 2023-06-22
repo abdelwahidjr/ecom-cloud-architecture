@@ -44,7 +44,7 @@ Services used are chosen in such a way that they will provide maximum throughput
     
   <p align="center">
   <a href="https://www.ecom.io">
-    <img src="./aws-network.png" alt="Network Diagram" width="1080" height="1920">
+    <img src="./aws-cloud-architecture.png" alt="Network Diagram" width="1080" height="1920">
   </a>
 
 
