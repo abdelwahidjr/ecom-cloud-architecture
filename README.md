@@ -41,7 +41,12 @@ ECOM Multi Tenant E-commerce website on cloud
 
 Network, Application Diagram and Architecture to host and monitor a e-commerce website on AWS cloud in efficient manner.
 Services used are chosen in such a way that they will provide maximum throughput along with cost saving.
-![Network Diagram](./aws-network.png?raw=true "Network Diagram")
+    
+    <p align="center">
+  <a href="https://www.ecom.io">
+    <img src="./aws-network.png" alt="Network Diagram" width="1080" height="1920">
+  </a>
+
 
 
 
