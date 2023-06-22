@@ -14,7 +14,6 @@
  
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
@@ -52,10 +51,10 @@ Services used are chosen in such a way that they will provide maximum throughput
 
 ECOM Technical Requirements
 Phase Tools/Technology
-* Store Template ● HTML, CSS ● React.js ● Next.js (Server-side rendering). ● Apollo ● PWA
+* Store Template - HTML, CSS - React.js - Next.js (Server-side rendering). - Apollo - PWA
 (Progressive Web App)
-* Merchant App ● React Native
-* Merchant Panel ● HTML, CSS ● React.js ● Apollo Super Admin Panel ● HTML, CSS ● React.js ● Apollo Backend ● MongoDB ● NodeJS ● GraphQL
+* Merchant App - React Native
+* Merchant Panel - HTML, CSS - React.js - Apollo Super Admin Panel - HTML, CSS - React.js - Apollo Backend - MongoDB - NodeJS - GraphQL
 
 
 <!-- GETTING STARTED -->
