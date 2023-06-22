@@ -49,9 +49,6 @@ Services used are chosen in such a way that they will provide maximum throughput
 
 
 
-
-
-
 ### Built With
 
 ECOM Technical Requirements
@@ -166,4 +163,3 @@ As you can infer, for all technical requirements you can use the cloud platform 
 ## Contact
 
 Email : abdelwahidjr@cryptdev.com
-
